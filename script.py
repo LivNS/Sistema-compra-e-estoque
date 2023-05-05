@@ -1,6 +1,8 @@
 # RM 97819 - Lívia Namba Seraphim 
 # RM 98384 - Victor Maciel
 # RM 550412 - Débora Amaral
+# RM 97747 - Sarah Ribeiro
+# RM 550270 - Mateus Iago
 
 # Sistema para controle de compras e estoque 
 
